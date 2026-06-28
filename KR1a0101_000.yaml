@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR1a0101/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部一
+  hash: sha256:5111095677a17a819f758c15b1f1277a321ca96156d9a58f561e94ee59984d92
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1a0101_WYG_000-1a, image: WYG0032/WYG0032-0429a.png}
+body:
+  text: 讀易紀聞易類提要臣等謹案讀易紀聞六卷明張獻翼撰獻翼字幼于崑山人後更名敉此其早年讀書上方山中所著也獻翼放誕不羈言行詭異卒以沈湎野宿遇盜隕身其人殆有狂易之疾而其說易乃平正通達篤實不支祧莊老之元虛闡程朱之義理凡吉凶悔吝進退存亡足為人事之鑒者多所發明得聖人示戒之㫖揆諸素履所謂能言而不能行者歟朱彞尊經義考載獻翼易注凡五種惟讀易韻考存其讀易約說三卷易雜說二卷讀易臆說二卷及此書六卷均注曰未見今搜採遺編惟得讀易韻考及此書韻考紕漏殊甚如盲談黑白聾辨宫商已别為存目此書不載經文但逐節拈說有如劄記之體其言足采固不至以其人廢矣乾隆四十五年二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:44b6b30a1f934c12e6dd19ead36a2963f5ed1988bdb08d639540419c340f4e02
+metadata:
+  title: 讀易紀聞
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 21:57:48.276702'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR1a0101/KR1a0101_000.txt
+hash: sha256:a5bfe3339d4bb6e085eaa9a2869196349eefe8298590b56d03cb4a638be92b4a
